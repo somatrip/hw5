@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/npc_bot.cs">
+    <Files>
+      <File FileName="../Desktop/click_to_move.cs" Line="15" Column="43" />
+      <File FileName="../day8robert/modding_week4/Assets/scripts/Fish.cs" Line="21" Column="83" />
+      <File FileName="../day8robert/modding_week4/Assets/scripts/FishGod.cs" Line="59" Column="37" />
+      <File FileName="../Desktop/platformer.cs" Line="35" Column="5" />
+      <File FileName="Assets/npc_bot.cs" Line="9" Column="2" />
+      <File FileName="Assets/click_to_move.cs" Line="15" Column="3" />
+      <File FileName="Assets/platformer.cs" Line="24" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
